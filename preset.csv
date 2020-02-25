@@ -1,0 +1,212 @@
+desk,backpack,on top,0.5
+desk,umbrella,on top,0.25
+desk,handbag,on top,0.5
+desk,tie,on top,0.25
+desk,suitcase,on top,0.5
+desk,frisbee,on top,0.25
+desk,skis,on top,0
+desk,snowboard,on top,0
+desk,sports ball,on top,0.25
+desk,kite,on top,0
+desk,baseball bat,on top,0.25
+desk,baseball glove,on top,0.5
+desk,skateboard,on top,0.25
+desk,surfboard,on top,0
+desk,tennis racket,on top,0.25
+desk,bottle,on top,1
+desk,wine glass,on top,0.75
+desk,cup,on top,1
+desk,fork,on top,0.75
+desk,knife,on top,0.75
+desk,spoon,on top,0.75
+desk,bowl,on top,1
+desk,banana,on top,0.75
+desk,apple,on top,0.75
+desk,sandwich,on top,0.75
+desk,orange,on top,0.75
+desk,broccoli,on top,0.5
+desk,carrot,on top,0.5
+desk,hot dog,on top,0.75
+desk,pizza,on top,0.75
+desk,donut,on top,0.75
+desk,cake,on top,0.5
+desk,chair,on top,0
+desk,potted plant,on top,0.5
+desk,toilet,on top,0
+desk,tv,on top,0.75
+desk,laptop,on top,1
+desk,mouse,on top,1
+desk,remote,on top,0.75
+desk,keyboard,on top,1
+desk,cell phone,on top,1
+desk,microwave,on top,0
+desk,oven,on top,0
+desk,toaster,on top,0
+desk,sink,on top,0
+desk,refrigerator,on top,0
+desk,book,on top,0.75
+desk,clock,on top,0.75
+desk,vase,on top,0.75
+desk,scissors,on top,0.75
+desk,teddy bear,on top,0.75
+desk,hair dryer,on top,0.75
+desk,toothbrush,on top,0.75
+dining table,backpack,on top,0.5
+dining table,umbrella,on top,0.25
+dining table,handbag,on top,0.5
+dining table,tie,on top,0.25
+dining table,suitcase,on top,0.5
+dining table,frisbee,on top,0.25
+dining table,skis,on top,0
+dining table,snowboard,on top,0
+dining table,sports ball,on top,0.25
+dining table,kite,on top,0
+dining table,baseball bat,on top,0.25
+dining table,baseball glove,on top,0.5
+dining table,skateboard,on top,0.25
+dining table,surfboard,on top,0
+dining table,tennis racket,on top,0.25
+dining table,bottle,on top,1
+dining table,wine glass,on top,1
+dining table,cup,on top,1
+dining table,fork,on top,1
+dining table,knife,on top,1
+dining table,spoon,on top,1
+dining table,bowl,on top,1
+dining table,banana,on top,1
+dining table,apple,on top,1
+dining table,sandwich,on top,1
+dining table,orange,on top,0.75
+dining table,broccoli,on top,0.75
+dining table,carrot,on top,0.75
+dining table,hot dog,on top,1
+dining table,pizza,on top,1
+dining table,donut,on top,0.75
+dining table,cake,on top,0.75
+dining table,chair,on top,0
+dining table,potted plant,on top,0.5
+dining table,toilet,on top,0
+dining table,tv,on top,0
+dining table,laptop,on top,1
+dining table,mouse,on top,1
+dining table,remote,on top,1
+dining table,keyboard,on top,1
+dining table,cell phone,on top,1
+dining table,microwave,on top,0
+dining table,oven,on top,0
+dining table,toaster,on top,0
+dining table,sink,on top,0
+dining table,refrigerator,on top,0
+dining table,book,on top,0.75
+dining table,clock,on top,0.75
+dining table,vase,on top,0.75
+dining table,scissors,on top,0.75
+dining table,teddy bear,on top,0.75
+dining table,hair dryer,on top,0.75
+dining table,toothbrush,on top,0.75
+bed,backpack,on top,0.75
+bed,umbrella,on top,0
+bed,handbag,on top,0.75
+bed,tie,on top,0.75
+bed,suitcase,on top,0.75
+bed,frisbee,on top,0.25
+bed,skis,on top,0
+bed,snowboard,on top,0
+bed,sports ball,on top,0.25
+bed,kite,on top,0
+bed,baseball bat,on top,0.25
+bed,baseball glove,on top,0.25
+bed,skateboard,on top,0.5
+bed,surfboard,on top,0.25
+bed,tennis racket,on top,0.5
+bed,bottle,on top,0.75
+bed,wine glass,on top,0
+bed,cup,on top,0
+bed,fork,on top,0
+bed,knife,on top,0
+bed,spoon,on top,0
+bed,bowl,on top,0
+bed,banana,on top,0.5
+bed,apple,on top,0.5
+bed,sandwich,on top,0.5
+bed,orange,on top,0.5
+bed,broccoli,on top,0.5
+bed,carrot,on top,0.5
+bed,hot dog,on top,0.5
+bed,pizza,on top,0.5
+bed,donut,on top,0.5
+bed,cake,on top,0.5
+bed,chair,on top,0
+bed,potted plant,on top,0
+bed,toilet,on top,0
+bed,tv,on top,0
+bed,laptop,on top,1
+bed,mouse,on top,0.75
+bed,remote,on top,1
+bed,keyboard,on top,0.75
+bed,cell phone,on top,1
+bed,microwave,on top,0
+bed,oven,on top,0
+bed,toaster,on top,0
+bed,sink,on top,0
+bed,refrigerator,on top,0
+bed,book,on top,1
+bed,clock,on top,0
+bed,vase,on top,0
+bed,scissors,on top,0.75
+bed,teddy bear,on top,1
+bed,hair dryer,on top,0.75
+bed,toothbrush,on top,0.25
+couch,backpack,on top,0.75
+couch,umbrella,on top,0.5
+couch,handbag,on top,0.75
+couch,tie,on top,0.75
+couch,suitcase,on top,0.75
+couch,frisbee,on top,0.5
+couch,skis,on top,0.25
+couch,snowboard,on top,0.25
+couch,sports ball,on top,0.5
+couch,kite,on top,0.25
+couch,baseball bat,on top,0.75
+couch,baseball glove,on top,0.75
+couch,skateboard,on top,0.5
+couch,surfboard,on top,0.25
+couch,tennis racket,on top,0.5
+couch,bottle,on top,0.5
+couch,wine glass,on top,0
+couch,cup,on top,0
+couch,fork,on top,0
+couch,knife,on top,0
+couch,spoon,on top,0
+couch,bowl,on top,0
+couch,banana,on top,0.25
+couch,apple,on top,0.25
+couch,sandwich,on top,0.25
+couch,orange,on top,0.25
+couch,broccoli,on top,0
+couch,carrot,on top,0.25
+couch,hot dog,on top,0.25
+couch,pizza,on top,0.5
+couch,donut,on top,0.5
+couch,cake,on top,0.5
+couch,chair,on top,0
+couch,potted plant,on top,0
+couch,toilet,on top,0
+couch,tv,on top,0
+couch,laptop,on top,0.75
+couch,mouse,on top,0.25
+couch,remote,on top,1
+couch,keyboard,on top,0.25
+couch,cell phone,on top,1
+couch,microwave,on top,0
+couch,oven,on top,0
+couch,toaster,on top,0
+couch,sink,on top,0
+couch,refrigerator,on top,0
+couch,book,on top,1
+couch,clock,on top,0.25
+couch,vase,on top,0
+couch,scissors,on top,0.5
+couch,teddy bear,on top,0.75
+couch,hair dryer,on top,0.5
+couch,toothbrush,on top,0.25
